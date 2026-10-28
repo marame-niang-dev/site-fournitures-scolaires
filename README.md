@@ -65,3 +65,18 @@ GitHub : [marame-niang-dev](https://github.com/marame-niang-dev)
 ---
 
 Ce projet est réalisé à des fins pédagogiques et de démonstration.
+
+
+## Captures d’écran
+
+### Catalogue des fournitures scolaires
+![Catalogue des fournitures](screenshots/cata.png)
+
+### Commande
+![Commande](screenshots/commande.png)
+
+### Panier
+![Panier](screenshots/panier.png)
+
+### Aperçu complet du site
+![Aperçu complet du site](screenshots/tout.png)
